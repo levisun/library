@@ -256,6 +256,10 @@ class Model extends cls_mysql
         $sql = 'DELETE FROM ' . $this->sql['table_name'];
         $sql .= $this->sql['where'];
         $this->last_sql = $sql;
+        if (empty($this->sql['where'])) {
+            echo 'error: sql update where error [' . $this->last_sql . ']';
+            exit();
+        }
         $this->query($sql);
         $this->reset();
         return true;
@@ -277,6 +281,10 @@ class Model extends cls_mysql
         $sql .= ' SET ' . $updata_data;
         $sql .= $this->sql['where'];
         $this->last_sql = $sql;
+        if (empty($this->sql['where'])) {
+            echo 'error: sql update where error [' . $this->last_sql . ']';
+            exit();
+        }
         $this->reset();
         $this->query($sql);
         return true;

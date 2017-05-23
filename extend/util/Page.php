@@ -248,19 +248,23 @@ class Page
      */
     private function url($page=0)
     {
-        $url = !empty($_SERVER['REQUEST_SCHEME']) ? $_SERVER['REQUEST_SCHEME'] : 'http://';
+        $url = !empty($_SERVER['REQUEST_SCHEME']) ? $_SERVER['REQUEST_SCHEME'] . '://' : 'http://';
         $url .= $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
         $url = parse_url($url);
 
-        $query = explode('&', $_SERVER['QUERY_STRING']);
-        $params = array();
-        foreach ($query as $key => $value) {
-            $item = explode('=', $value);
-            $params[$item[0]] = $item[1];
-        }
-        unset($params[$this->page_var]);
+        if (!empty($_SERVER['QUERY_STRING'])) {
+            $query = explode('&', $_SERVER['QUERY_STRING']);
+            $params = array();
+            foreach ($query as $key => $value) {
+                $item = explode('=', $value);
+                $params[$item[0]] = $item[1];
+            }
+            unset($params[$this->page_var]);
 
-        $url['query'] = http_build_query($params);
+            $url['query'] = http_build_query($params);
+        } else {
+            $url['query'] = '';
+        }
 
         $this->url = $url['scheme'] . '://' . $url['host'] . $url['path'] . '?' . $url['query'];
 
