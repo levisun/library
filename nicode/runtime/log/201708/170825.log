@@ -1,0 +1,31 @@
+2017-08-25 10:58:25 ERR: [8] Undefined variable: object D:\xampp\htdocs\library\nicode\library\code\Build.php 第 43 行.
+2017-08-25 10:58:26 ERR: [8] Undefined variable: object D:\xampp\htdocs\library\nicode\library\code\Build.php 第 43 行.
+2017-08-25 10:58:26 ERR: [8] Undefined variable: object D:\xampp\htdocs\library\nicode\library\code\Build.php 第 43 行.
+2017-08-25 05:18:02 ERR: [8] Use of undefined constant NI_MODULE - assumed 'NI_MODULE' D:\xampp\htdocs\library\nicode\library\code\Loader.php 第 61 行.
+2017-08-25 05:18:03 ERR: [8] Use of undefined constant NI_MODULE - assumed 'NI_MODULE' D:\xampp\htdocs\library\nicode\library\code\Loader.php 第 61 行.
+2017-08-25 05:18:04 ERR: [8] Use of undefined constant NI_MODULE - assumed 'NI_MODULE' D:\xampp\htdocs\library\nicode\library\code\Loader.php 第 61 行.
+2017-08-25 05:18:04 ERR: [8] Use of undefined constant NI_MODULE - assumed 'NI_MODULE' D:\xampp\htdocs\library\nicode\library\code\Loader.php 第 61 行.
+2017-08-25 05:18:04 ERR: [8] Use of undefined constant NI_MODULE - assumed 'NI_MODULE' D:\xampp\htdocs\library\nicode\library\code\Loader.php 第 61 行.
+2017-08-25 05:25:06 ERR: [8] Use of undefined constant NI_MODULE - assumed 'NI_MODULE' D:\xampp\htdocs\library\nicode\library\code\Loader.php 第 88 行.
+2017-08-25 05:25:08 ERR: [8] Use of undefined constant NI_MODULE - assumed 'NI_MODULE' D:\xampp\htdocs\library\nicode\library\code\Loader.php 第 88 行.
+2017-08-25 05:25:08 ERR: [8] Use of undefined constant NI_MODULE - assumed 'NI_MODULE' D:\xampp\htdocs\library\nicode\library\code\Loader.php 第 88 行.
+2017-08-25 05:25:08 ERR: [8] Use of undefined constant NI_MODULE - assumed 'NI_MODULE' D:\xampp\htdocs\library\nicode\library\code\Loader.php 第 88 行.
+2017-08-25 05:25:09 ERR: [8] Use of undefined constant NI_MODULE - assumed 'NI_MODULE' D:\xampp\htdocs\library\nicode\library\code\Loader.php 第 88 行.
+2017-08-25 05:26:10 ERR: ERROR:syntax error, unexpected 'const' (T_CONST) in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>21</b>
+2017-08-25 05:26:10 ERR: ERROR:syntax error, unexpected 'const' (T_CONST) in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>21</b>
+2017-08-25 05:26:11 ERR: ERROR:syntax error, unexpected 'const' (T_CONST) in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>21</b>
+2017-08-25 05:26:11 ERR: ERROR:syntax error, unexpected 'const' (T_CONST) in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>21</b>
+2017-08-25 05:26:12 ERR: ERROR:syntax error, unexpected 'const' (T_CONST) in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>21</b>
+2017-08-25 05:26:12 ERR: ERROR:syntax error, unexpected 'const' (T_CONST) in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>21</b>
+2017-08-25 05:27:50 ERR: [8] Use of undefined constant NI_MODULE - assumed 'NI_MODULE' D:\xampp\htdocs\library\nicode\library\code\Loader.php 第 91 行.
+2017-08-25 05:27:51 ERR: [8] Use of undefined constant NI_MODULE - assumed 'NI_MODULE' D:\xampp\htdocs\library\nicode\library\code\Loader.php 第 91 行.
+2017-08-25 05:27:52 ERR: [8] Use of undefined constant NI_MODULE - assumed 'NI_MODULE' D:\xampp\htdocs\library\nicode\library\code\Loader.php 第 91 行.
+2017-08-25 17:04:32 ERR: SplFileObject::__construct(D:xampptmpphpA9B5.tmp): failed to open stream: No such file or directory
+2017-08-25 17:04:52 ERR: SplFileObject::__construct(66666.jpg): failed to open stream: No such file or directory
+2017-08-25 17:07:51 ERR: SplFileObject::__construct(D:xampptmpphpB4B8.tmp): failed to open stream: No such file or directory
+2017-08-25 17:12:43 ERR: SplFileObject::__construct(D:xampptmpphp28CC.tmp): failed to open stream: No such file or directory
+2017-08-25 17:14:41 ERR: SplFileObject::__construct(66666.jpg): failed to open stream: No such file or directory
+2017-08-25 17:15:24 ERR: SplFileObject::__construct(D:xampptmpphp9EE0.tmp): failed to open stream: No such file or directory
+2017-08-25 17:15:47 ERR: SplFileObject::__construct(D:xampptmpphpF6C5.tmp): failed to open stream: No such file or directory
+2017-08-25 17:18:19 ERR: [8] Use of undefined constant DS - assumed 'DS' D:\xampp\htdocs\library\nicode\library\util\Upload.php 第 290 行.
+2017-08-25 17:50:13 ERR: [8] Use of undefined constant PATH - assumed 'PATH' D:\xampp\htdocs\library\nicode\application\home\controller\Home.php 第 13 行.

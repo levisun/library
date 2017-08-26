@@ -1,0 +1,65 @@
+2017-08-18 10:15:17 ERR: [8] Undefined variable: new D:\xampp\htdocs\library\nicode\base.php 第 28 行.
+2017-08-18 10:37:05 ERR: [8] Undefined variable: new D:\xampp\htdocs\library\nicode\base.php 第 28 行.
+2017-08-18 10:39:08 ERR: [8] Undefined variable: new D:\xampp\htdocs\library\nicode\base.php 第 28 行.
+2017-08-18 10:39:43 ERR: [8] Undefined variable: new D:\xampp\htdocs\library\nicode\base.php 第 28 行.
+2017-08-18 10:42:00 ERR: [8] Undefined variable: new D:\xampp\htdocs\library\nicode\base.php 第 28 行.
+2017-08-18 17:12:31 ERR: [8] Undefined index: a23d3c1e1b5d960d17272dc9e747c0d1 D:\xampp\htdocs\library\nicode\library\code\Build.php 第 45 行.
+2017-08-18 17:15:04 ERR: ERROR:Call to undefined function escape_xss() in <b>D:\xampp\htdocs\library\nicode\base.php</b> on line <b>30</b>
+2017-08-18 17:15:30 ERR: ERROR:Call to undefined function escape_xss() in <b>D:\xampp\htdocs\library\nicode\base.php</b> on line <b>30</b>
+2017-08-18 17:16:34 ERR: ERROR:Call to undefined function escape_xss() in <b>D:\xampp\htdocs\library\nicode\base.php</b> on line <b>30</b>
+2017-08-18 17:17:01 ERR: ERROR:Call to undefined function escape_xss() in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>22</b>
+2017-08-18 17:22:57 ERR: [2048] Non-static method Build::controller() should not be called statically D:\xampp\htdocs\library\nicode\library\code\Build.php 第 22 行.
+2017-08-18 17:23:19 ERR: ERROR:Class 'index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>28</b>
+2017-08-18 17:23:57 ERR: [8] Undefined variable: class_name D:\xampp\htdocs\library\nicode\library\code\Build.php 第 27 行.
+2017-08-18 17:24:06 ERR: ERROR:Class 'index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>32</b>
+2017-08-18 17:26:22 ERR: [8] Undefined variable: class_name D:\xampp\htdocs\library\nicode\library\code\Build.php 第 29 行.
+2017-08-18 17:31:44 ERR: ERROR:Class 'index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>36</b>
+2017-08-18 17:32:24 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>36</b>
+2017-08-18 17:32:35 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>36</b>
+2017-08-18 17:33:18 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>36</b>
+2017-08-18 17:33:19 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>36</b>
+2017-08-18 17:33:25 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>36</b>
+2017-08-18 17:33:29 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>36</b>
+2017-08-18 17:34:52 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>36</b>
+2017-08-18 17:35:22 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>36</b>
+2017-08-18 17:35:23 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>36</b>
+2017-08-18 17:35:23 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>36</b>
+2017-08-18 17:35:23 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>36</b>
+2017-08-18 17:35:23 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>36</b>
+2017-08-18 17:35:24 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>36</b>
+2017-08-18 17:35:24 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>36</b>
+2017-08-18 17:35:24 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>36</b>
+2017-08-18 17:36:16 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>36</b>
+2017-08-18 17:36:17 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>36</b>
+2017-08-18 17:36:17 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>36</b>
+2017-08-18 17:36:17 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>36</b>
+2017-08-18 17:36:17 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>36</b>
+2017-08-18 17:36:58 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>37</b>
+2017-08-18 11:41:01 ERR: [8] Undefined variable: calss D:\xampp\htdocs\library\nicode\library\code\Loader.php 第 100 行.
+2017-08-18 17:45:52 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>39</b>
+2017-08-18 17:45:53 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>39</b>
+2017-08-18 17:45:53 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>39</b>
+2017-08-18 17:45:53 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>39</b>
+2017-08-18 17:45:53 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>39</b>
+2017-08-18 17:45:53 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>39</b>
+2017-08-18 17:45:54 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>39</b>
+2017-08-18 17:45:54 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>39</b>
+2017-08-18 17:45:54 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>39</b>
+2017-08-18 17:45:54 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>39</b>
+2017-08-18 17:45:54 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>39</b>
+2017-08-18 17:45:54 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>39</b>
+2017-08-18 17:45:54 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>39</b>
+2017-08-18 17:45:55 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>39</b>
+2017-08-18 17:46:32 ERR: ERROR:Class 'Index' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>37</b>
+2017-08-18 17:49:04 ERR: [8] Undefined variable: config D:\xampp\htdocs\library\nicode\library\code\Build.php 第 24 行.
+2017-08-18 17:59:03 ERR: [8] Undefined variable: vlaue D:\xampp\htdocs\library\nicode\library\common.php 第 23 行.
+2017-08-18 18:00:09 ERR: [8] Undefined variable: vlaue D:\xampp\htdocs\library\nicode\library\common.php 第 23 行.
+2017-08-18 18:00:10 ERR: [8] Undefined variable: vlaue D:\xampp\htdocs\library\nicode\library\common.php 第 23 行.
+2017-08-18 18:00:10 ERR: [8] Undefined variable: vlaue D:\xampp\htdocs\library\nicode\library\common.php 第 23 行.
+2017-08-18 18:00:10 ERR: [8] Undefined variable: vlaue D:\xampp\htdocs\library\nicode\library\common.php 第 23 行.
+2017-08-18 18:00:11 ERR: [8] Undefined variable: vlaue D:\xampp\htdocs\library\nicode\library\common.php 第 23 行.
+2017-08-18 18:01:51 ERR: ERROR:syntax error, unexpected ';', expecting ')' in <b>D:\xampp\htdocs\library\nicode\application\index\config.php</b> on line <b>3</b>
+2017-08-18 18:01:52 ERR: ERROR:syntax error, unexpected ';', expecting ')' in <b>D:\xampp\htdocs\library\nicode\application\index\config.php</b> on line <b>3</b>
+2017-08-18 18:01:52 ERR: ERROR:syntax error, unexpected ';', expecting ')' in <b>D:\xampp\htdocs\library\nicode\application\index\config.php</b> on line <b>3</b>
+2017-08-18 18:01:52 ERR: ERROR:syntax error, unexpected ';', expecting ')' in <b>D:\xampp\htdocs\library\nicode\application\index\config.php</b> on line <b>3</b>
+2017-08-18 18:01:52 ERR: ERROR:syntax error, unexpected ';', expecting ')' in <b>D:\xampp\htdocs\library\nicode\application\index\config.php</b> on line <b>3</b>

@@ -1,0 +1,48 @@
+2017-08-22 09:35:30 ERR: ERROR:Cannot use object of type Model as array in <b>D:\xampp\htdocs\library\nicode\library\code\Model.php</b> on line <b>91</b>
+2017-08-22 09:36:20 ERR: ERROR:Cannot access protected property Model::$sql in <b>D:\xampp\htdocs\library\nicode\application\index\controller\Index.php</b> on line <b>19</b>
+2017-08-22 10:10:31 ERR: [8] Array to string conversion D:\xampp\htdocs\library\nicode\library\code\Model.php 第 85 行.
+2017-08-22 10:10:32 ERR: [8] Array to string conversion D:\xampp\htdocs\library\nicode\library\code\Model.php 第 85 行.
+2017-08-22 10:20:30 ERR: [8] Undefined index: EXP D:\xampp\htdocs\library\nicode\library\code\Model.php 第 85 行.
+2017-08-22 10:20:30 ERR: [8] Undefined index: EXP D:\xampp\htdocs\library\nicode\library\code\Model.php 第 85 行.
+2017-08-22 10:20:31 ERR: [8] Undefined index: EXP D:\xampp\htdocs\library\nicode\library\code\Model.php 第 85 行.
+2017-08-22 10:24:29 ERR: [2] implode(): Invalid arguments passed D:\xampp\htdocs\library\nicode\library\code\Model.php 第 89 行.
+2017-08-22 10:26:06 ERR: ERROR:syntax error, unexpected ']' in <b>D:\xampp\htdocs\library\nicode\library\code\Model.php</b> on line <b>88</b>
+2017-08-22 10:26:07 ERR: ERROR:syntax error, unexpected ']' in <b>D:\xampp\htdocs\library\nicode\library\code\Model.php</b> on line <b>88</b>
+2017-08-22 10:26:07 ERR: ERROR:syntax error, unexpected ']' in <b>D:\xampp\htdocs\library\nicode\library\code\Model.php</b> on line <b>88</b>
+2017-08-22 10:26:07 ERR: ERROR:syntax error, unexpected ']' in <b>D:\xampp\htdocs\library\nicode\library\code\Model.php</b> on line <b>88</b>
+2017-08-22 10:31:35 ERR: ERROR:syntax error, unexpected ';', expecting ')' in <b>D:\xampp\htdocs\library\nicode\application\index\controller\Index.php</b> on line <b>15</b>
+2017-08-22 10:31:36 ERR: ERROR:syntax error, unexpected ';', expecting ')' in <b>D:\xampp\htdocs\library\nicode\application\index\controller\Index.php</b> on line <b>15</b>
+2017-08-22 10:31:44 ERR: [8] Array to string conversion D:\xampp\htdocs\library\nicode\library\code\Model.php 第 113 行.
+2017-08-22 10:31:45 ERR: [8] Array to string conversion D:\xampp\htdocs\library\nicode\library\code\Model.php 第 113 行.
+2017-08-22 10:31:45 ERR: [8] Array to string conversion D:\xampp\htdocs\library\nicode\library\code\Model.php 第 113 行.
+2017-08-22 10:31:45 ERR: [8] Array to string conversion D:\xampp\htdocs\library\nicode\library\code\Model.php 第 113 行.
+2017-08-22 10:42:35 ERR: ERROR:syntax error, unexpected ''ext'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in <b>D:\xampp\htdocs\library\nicode\library\code\Model.php</b> on line <b>77</b>
+2017-08-22 11:05:39 ERR: ERROR:Call to undefined method Model::hasCache() in <b>D:\xampp\htdocs\library\nicode\library\code\Model.php</b> on line <b>177</b>
+2017-08-22 11:05:40 ERR: ERROR:Call to undefined method Model::hasCache() in <b>D:\xampp\htdocs\library\nicode\library\code\Model.php</b> on line <b>177</b>
+2017-08-22 11:05:40 ERR: ERROR:Call to undefined method Model::hasCache() in <b>D:\xampp\htdocs\library\nicode\library\code\Model.php</b> on line <b>177</b>
+2017-08-22 11:05:40 ERR: ERROR:Call to undefined method Model::hasCache() in <b>D:\xampp\htdocs\library\nicode\library\code\Model.php</b> on line <b>177</b>
+2017-08-22 11:05:40 ERR: ERROR:Call to undefined method Model::hasCache() in <b>D:\xampp\htdocs\library\nicode\library\code\Model.php</b> on line <b>177</b>
+2017-08-22 11:05:40 ERR: ERROR:Call to undefined method Model::hasCache() in <b>D:\xampp\htdocs\library\nicode\library\code\Model.php</b> on line <b>177</b>
+2017-08-22 11:05:40 ERR: ERROR:Call to undefined method Model::hasCache() in <b>D:\xampp\htdocs\library\nicode\library\code\Model.php</b> on line <b>177</b>
+2017-08-22 11:06:45 ERR: ERROR:Call to undefined method Index::getLastSql() in <b>D:\xampp\htdocs\library\nicode\application\index\controller\Index.php</b> on line <b>25</b>
+2017-08-22 11:06:46 ERR: ERROR:Call to undefined method Index::getLastSql() in <b>D:\xampp\htdocs\library\nicode\application\index\controller\Index.php</b> on line <b>25</b>
+2017-08-22 11:06:46 ERR: ERROR:Call to undefined method Index::getLastSql() in <b>D:\xampp\htdocs\library\nicode\application\index\controller\Index.php</b> on line <b>25</b>
+2017-08-22 11:06:46 ERR: ERROR:Call to undefined method Index::getLastSql() in <b>D:\xampp\htdocs\library\nicode\application\index\controller\Index.php</b> on line <b>25</b>
+2017-08-22 11:06:46 ERR: ERROR:Call to undefined method Index::getLastSql() in <b>D:\xampp\htdocs\library\nicode\application\index\controller\Index.php</b> on line <b>25</b>
+2017-08-22 11:14:15 ERR: [8] Undefined variable: field D:\xampp\htdocs\library\nicode\library\code\Model.php 第 163 行.
+2017-08-22 14:12:35 ERR: ERROR:syntax error, unexpected ';', expecting ')' in <b>D:\xampp\htdocs\library\nicode\application\index\controller\Index.php</b> on line <b>17</b>
+2017-08-22 14:12:43 ERR: [8] Array to string conversion D:\xampp\htdocs\library\nicode\application\index\controller\Index.php 第 20 行.
+2017-08-22 14:32:39 ERR: [8] Array to string conversion D:\xampp\htdocs\library\nicode\application\index\controller\Index.php 第 20 行.
+2017-08-22 15:36:31 ERR: [8] Array to string conversion D:\xampp\htdocs\library\nicode\application\index\controller\Index.php 第 20 行.
+2017-08-22 15:46:50 ERR: ERROR:Class '\think\template\driver\File' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Template.php</b> on line <b>72</b>
+2017-08-22 15:53:37 ERR: [2] file_put_contents(D:/xampp/htdocs/library\nicode\runtime\cache\table_field\b3d3ded90cd3425ffe57e787cbdac225.php): failed to open stream: No such file or directory D:\xampp\htdocs\library\nicode\library\util\File.php 第 35 行.
+2017-08-22 16:05:14 ERR: [2] Missing argument 1 for Template::display(), called in D:\xampp\htdocs\library\nicode\application\index\controller\Index.php on line 19 and defined D:\xampp\htdocs\library\nicode\library\code\Template.php 第 218 行.
+2017-08-22 16:05:22 ERR: ERROR:Class '\think\template\taglib\Cx' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Template.php</b> on line <b>694</b>
+2017-08-22 16:24:52 ERR: ERROR:Class '\think\template\taglib\Cx' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Template.php</b> on line <b>694</b>
+2017-08-22 16:24:53 ERR: ERROR:Class '\think\template\taglib\Cx' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Template.php</b> on line <b>694</b>
+2017-08-22 16:24:53 ERR: ERROR:Class '\think\template\taglib\Cx' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Template.php</b> on line <b>694</b>
+2017-08-22 16:38:49 ERR: ERROR:syntax error, unexpected '{', expecting ')' in <b>D:\xampp\htdocs\library\nicode\library\code\Template.php</b> on line <b>172</b>
+2017-08-22 16:39:02 ERR: ERROR:syntax error, unexpected '{', expecting ')' in <b>D:\xampp\htdocs\library\nicode\library\code\Template.php</b> on line <b>219</b>
+2017-08-22 16:39:03 ERR: ERROR:syntax error, unexpected '{', expecting ')' in <b>D:\xampp\htdocs\library\nicode\library\code\Template.php</b> on line <b>219</b>
+2017-08-22 17:48:28 ERR: [2] Illegal offset type in isset or empty D:\xampp\htdocs\library\nicode\library\code\Template.php 第 132 行.
+2017-08-22 17:50:00 ERR: [2] Illegal offset type in isset or empty D:\xampp\htdocs\library\nicode\library\code\Template.php 第 132 行.

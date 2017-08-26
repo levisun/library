@@ -1,0 +1,27 @@
+2017-08-19 09:22:03 ERR: [8] Undefined variable: object D:\xampp\htdocs\library\nicode\library\code\Build.php 第 41 行.
+2017-08-19 09:22:25 ERR: ERROR:Class 'fff' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>41</b>
+2017-08-19 09:23:27 ERR: ERROR:Class 'fff' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>41</b>
+2017-08-19 09:28:11 ERR: ERROR:Class 'fff' not found in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>40</b>
+2017-08-19 09:28:37 ERR: ERROR:Call to undefined method Index::fds() in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>44</b>
+2017-08-19 09:29:39 ERR: ERROR:Call to undefined method Index::fds() in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>44</b>
+2017-08-19 09:30:03 ERR: ERROR:Call to undefined method Index::fds() in <b>D:\xampp\htdocs\library\nicode\library\code\Build.php</b> on line <b>44</b>
+2017-08-19 11:03:15 ERR: ERROR:Cannot redeclare Cache::$expire in <b>D:\xampp\htdocs\library\nicode\library\code\Cache.php</b> on line <b>23</b>
+2017-08-19 11:06:32 ERR: [2] Missing argument 1 for Model::field(), called in D:\xampp\htdocs\library\nicode\application\index\controller\Index.php on line 16 and defined D:\xampp\htdocs\library\nicode\library\code\Model.php 第 54 行.
+2017-08-19 11:07:56 ERR: ERROR:Cannot access protected property Cache::$type_dir in <b>D:\xampp\htdocs\library\nicode\library\code\Model.php</b> on line <b>92</b>
+2017-08-19 11:13:20 ERR: [8] Undefined variable: database D:\xampp\htdocs\library\nicode\library\code\Model.php 第 30 行.
+2017-08-19 11:22:39 ERR: [8] Undefined offset: 1 D:\xampp\htdocs\library\nicode\library\code\Model.php 第 76 行.
+2017-08-19 11:24:33 ERR: ERROR:syntax error, unexpected '' `'' (T_CONSTANT_ENCAPSED_STRING) in <b>D:\xampp\htdocs\library\nicode\library\code\Model.php</b> on line <b>78</b>
+2017-08-19 11:24:42 ERR: [8] Undefined variable: field D:\xampp\htdocs\library\nicode\library\code\Model.php 第 117 行.
+2017-08-19 11:31:23 ERR: [8] Undefined variable: field D:\xampp\htdocs\library\nicode\library\code\Model.php 第 151 行.
+2017-08-19 11:40:09 ERR: [8] Undefined variable: field D:\xampp\htdocs\library\nicode\library\code\Model.php 第 184 行.
+2017-08-19 11:47:57 ERR: [8] Undefined variable: field D:\xampp\htdocs\library\nicode\library\code\Model.php 第 178 行.
+2017-08-19 11:47:58 ERR: [8] Undefined variable: field D:\xampp\htdocs\library\nicode\library\code\Model.php 第 178 行.
+2017-08-19 11:47:58 ERR: [8] Undefined variable: field D:\xampp\htdocs\library\nicode\library\code\Model.php 第 178 行.
+2017-08-19 11:48:36 ERR: [8] Undefined variable: field D:\xampp\htdocs\library\nicode\library\code\Model.php 第 178 行.
+2017-08-19 11:49:52 ERR: [8] Undefined variable: field D:\xampp\htdocs\library\nicode\library\code\Model.php 第 147 行.
+2017-08-19 11:49:53 ERR: [8] Undefined variable: field D:\xampp\htdocs\library\nicode\library\code\Model.php 第 147 行.
+2017-08-19 11:49:53 ERR: [8] Undefined variable: field D:\xampp\htdocs\library\nicode\library\code\Model.php 第 147 行.
+2017-08-19 11:49:53 ERR: [8] Undefined variable: field D:\xampp\htdocs\library\nicode\library\code\Model.php 第 147 行.
+2017-08-19 11:50:09 ERR: [8] Undefined variable: field D:\xampp\htdocs\library\nicode\library\code\Model.php 第 147 行.
+2017-08-19 11:50:10 ERR: [8] Undefined variable: field D:\xampp\htdocs\library\nicode\library\code\Model.php 第 147 行.
+2017-08-19 11:50:10 ERR: [8] Undefined variable: field D:\xampp\htdocs\library\nicode\library\code\Model.php 第 147 行.
