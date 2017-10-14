@@ -3,12 +3,6 @@
  *
  * 上传类
  *
- * @package   NiPHPCMS
- * @category  extend\util\
- * @author    失眠小枕头 [levisun.mail@gmail.com]
- * @copyright Copyright (c) 2013, 失眠小枕头, All rights reserved.
- * @version   CVS: $Id: Upload.php v1.0.1 $
- * @link      http://www.NiPHP.com
  */
 
 class Upload extends SplFileObject
@@ -25,18 +19,18 @@ class Upload extends SplFileObject
     // 文件上传命名规则
     protected $rule = 'date';
     // 文件上传验证规则
-    protected $validate = [];
+    protected $validate = array();
     // 单元测试
     protected $isTest;
     // 上传文件信息
     protected $info;
     // 文件hash信息
-    protected $hash = [];
+    protected $hash = array();
 
     public function __construct($filename, $mode = 'r')
     {
         parent::__construct($filename, $mode);
-        $this->filename = $this->getRealPath() ?: $this->getPathname();
+        $this->filename = $this->getRealPath() ? $this->getRealPath() : $this->getPathname();
     }
 
     /**
@@ -148,7 +142,7 @@ class Upload extends SplFileObject
      * @param  array   $rule    验证规则
      * @return $this
      */
-    public function validate($rule = [])
+    public function validate($rule = array())
     {
         $this->validate = $rule;
         return $this;
@@ -163,7 +157,8 @@ class Upload extends SplFileObject
         if ($this->isTest) {
             return is_file($this->filename);
         }
-        return is_uploaded_file($this->filename);
+        // return is_uploaded_file($this->filename);
+        return true;
     }
 
     /**
@@ -171,9 +166,9 @@ class Upload extends SplFileObject
      * @param  array   $rule    验证规则
      * @return bool
      */
-    public function check($rule = [])
+    public function check($rule = array())
     {
-        $rule = $rule ?: $this->validate;
+        $rule = $rule ? '' : $this->validate;
 
         /* 检查文件大小 */
         if (isset($rule['size']) && !$this->checkSize($rule['size'])) {
@@ -195,7 +190,7 @@ class Upload extends SplFileObject
 
         /* 检查图像文件 */
         if (!$this->checkImg()) {
-            $this->error = '非法图像文件！';
+            $this->error = '非法上传文件！';
             return false;
         }
 
@@ -227,7 +222,7 @@ class Upload extends SplFileObject
     {
         $extension = strtolower(pathinfo($this->getInfo('name'), PATHINFO_EXTENSION));
         /* 对图像文件进行严格检测 */
-        if (in_array($extension, ['gif', 'jpg', 'jpeg', 'bmp', 'png', 'swf']) && !in_array($this->getImageType($this->filename), [1, 2, 3, 4, 6])) {
+        if (!in_array($extension, array('gif', 'jpg', 'jpeg', 'bmp', 'png', 'swf', 'xlsx'))) {
             return false;
         }
         return true;
@@ -337,8 +332,8 @@ class Upload extends SplFileObject
     {
         if (true === $savename) {
             // 自动生成文件名
-            if ($this->rule instanceof \Closure) {
-                $savename = call_user_func_array($this->rule, [$this]);
+            if ($this->rule instanceof Closure) {
+                $savename = call_user_func_array($this->rule, array($this));
             } else {
                 switch ($this->rule) {
                     case 'date':

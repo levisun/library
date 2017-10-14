@@ -1,4 +1,34 @@
 <?php
+/**
+ * 上传文件
+ * @param  array  $file
+ * @param  string $save_path
+ * @param  array  $validate
+ * @return string
+ */
+if (!function_exists('file_upload')) {
+    function file_upload($file, $save_path, $validate = array())
+    {
+        if (!is_file($file['tmp_name'])) {
+            return false;
+        }
+        $upload = new Upload($file['tmp_name']);
+        $result =
+        $upload->setUploadInfo($file)
+        ->validate($validate)
+        ->move($save_path);
+
+        if (!$result) {
+            return $upload->getError();
+        }
+
+        return array(
+            'save_path' => $save_path,
+            'save_name' => $result->getSaveName(),
+            'save_ext'  => $result->getExtension(),
+        );
+    }
+}
 
 if (!function_exists('request')) {
     function request()
